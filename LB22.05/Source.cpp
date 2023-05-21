@@ -6,7 +6,6 @@ int main() {
     std::cout << "Shodnya, shonochi kit uchenyj" << std::endl;
     std::cout << "Na lancyuhu kruzhl’aje tim" << std::endl;
 
-    // Ñóïğîâ³äíèé çâóêîâèé ñèãíàë
     std::cout << "\a\a\a";
 
     return 0;
